@@ -1,0 +1,41 @@
+.container{
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+}
+.dong1{
+background-color: aquamarine;
+padding: 10px;
+font-weight: 900;
+text-align: center;
+border: solid 1px black;
+}
+.dong2{
+    border: solid 1px black;
+}
+.dong2 .cottrai{
+    width: 75%;
+    height: 500px;
+    background-color: rgb(80, 185, 185);
+    float: left;
+}
+.dong2 .cotphai{
+    width: 25%;
+    height: 500px;
+    background-color: rgb(215, 224, 224);
+    float: left;
+
+}
+.dong2 .cotphai img{
+    width: 100%;
+    height: 32.8%;
+}
+.dong3{
+    
+padding: 10px;
+font-weight: 900;
+
+
+border: solid 1px black;
+
+}

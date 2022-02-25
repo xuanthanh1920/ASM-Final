@@ -1,0 +1,78 @@
+.wrap{
+  background-color: #fff;
+  height: 100vh;
+  width: 100%;
+  
+}
+.modal{
+  width: 600px;
+  margin: auto;
+  margin-top: 30px;
+ 
+  
+}
+.modal-container{
+   border: 3px solid rgb(10, 5, 83);
+   border-radius: 30px;
+   overflow: hidden;
+}
+.modal-header{
+   background-color: rgb(206, 187, 78);
+   color: #FFF;
+   display: flex;
+   align-items: center;
+   height: 100px;
+   justify-content: center;
+   text-transform: uppercase;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+   
+}
+.modal-header:hover{
+   opacity: 0.6;
+}
+.modal-header h2:hover{
+   color: chocolate;
+}
+.modal-body{
+   background-color: #fff;
+   color: black;
+   padding: 16px;
+   height: 300px;
+  
+   
+}
+.modal-input{
+   background-color: #fff;
+   border: 2px solid rgb(75, 75, 70);
+   width: 70%;
+
+   
+}
+.modal-label{
+   
+   font-size: 15px;
+   font-weight: 800;
+   margin: 9px 1px;
+   min-width: 120px;
+   display: inline-block;
+}
+.modal-label:hover{
+   opacity: 0.6;
+}
+.modal-label-note{
+   margin-left: 125px;
+   
+}
+#login{
+   background-color: rgb(88, 204, 169);
+   color: #fff;
+   padding: 8px 5px;
+   border-radius: 0px;
+   margin-left: 125px;
+
+}
+#login:hover{
+   opacity: 0.4;
+   cursor: pointer;
+}
